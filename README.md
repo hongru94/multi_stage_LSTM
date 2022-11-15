@@ -10,7 +10,7 @@ A) Network architecture of the multi-stage LSTM model. B) Prediction structure o
 ### Data
 | State-Level Data| Data Preprocessing | Data Source |
 | :---:         |     :---:      |          :---: |
-| git status   | git status     | git status    |
+| git status   | git status     | [^1]   |
 | git diff     | git diff       | git diff      |
 
 ### Model
