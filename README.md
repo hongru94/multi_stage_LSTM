@@ -7,6 +7,12 @@ This repository provides the code and data for the Multi-stage LSTM model to For
 
 A) Network architecture of the multi-stage LSTM model. B) Prediction structure of the multi-stage LSTM model. At the initial stage, the model uses the most recent data as input, then at the later stage, the model adapts previous prediction as input to make further predictions. The transparent colors represent the model’s output, and solid colors represents the model’s inputs. C) An example forecasting of the multi-stage LSTM model.
 
+### Data
+| State-Level Data| Data Preprocessing | Data Source |
+| :---:         |     :---:      |          :---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 ### Model
 - Main model: Predict the target epidemiological variables of interest!
 - Feature model: Predict independent features to populate the data streams used as input in the main model!
