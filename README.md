@@ -15,6 +15,14 @@ A) Network architecture of the multi-stage LSTM model. B) Prediction structure o
 | Vaccination coverage | Raw  |  https://www.cdc.gov/nhsn/covid19/dial-vaccination-dashboard.html|
 | Hospitalization data | Raw | https://www.hhs.gov/index.html |
 |Importation risk| Derived| https://www.safegraph.com/, https://github.com/CSSEGISandData/COVID-19 |
+|Mobility ratio| Derived | https://www.safegraph.com/ |
+|Visits ratio for 21 different destinations| Derived | https://www.safegraph.com/ | 
+|COVID-like symptoms in community| Raw | https://github.com/cmu-delphi/delphi-epidata |
+| Temperature & Percipitation | Raw | https://github.com/CSSEGISandData/COVID-19_Unified-Dataset |
+| Demographic data| Raw | https://www.census.gov/data.html | 
+| Variant cases | Derived | https://gisaid.org/ |
+
+
 
 
 ### Model
