@@ -11,7 +11,8 @@ A) Network architecture of the multi-stage LSTM model. B) Prediction structure o
 | State-Level Data| Data Preprocessing | Data Source |
 | :---:         |     :---:      |          :--- |
 | COVID-19 cases/deaths| Raw     | https://github.com/CSSEGISandData/COVID-19  |
-| Growth rate of cases/deaths| Raw       | [git diff](https://github.com/CSSEGISandData/COVID-19)      |
+| Growth rate of cases/deaths| Raw       | https://github.com/CSSEGISandData/COVID-19|
+| Vaccination coverage | Raw  |  https://www.cdc.gov/nhsn/covid19/dial-vaccination-dashboard.html|
 
 ### Model
 - Main model: Predict the target epidemiological variables of interest!
