@@ -30,3 +30,15 @@ Please refer to the Appendix for detailed preprocessing for derived metrics.
 - Feature model: Predict independent features to populate the data streams used as input in the main model!
 - Prediction: The multi-stage model builds off the initial first stage prediction to forecast an additional week out and continues to implement this iterative approach one stage at a time, to predict further into the future.
 
+### Contributors
+Hongru Du, Ensheng Dong, Hamada S. Badr, Mary E. Petrone, Nathan D. Grubaugh, and Lauren M. Gardner
+
+### BibTeX
+@article{du2022deep,
+  title={A Deep Learning Approach to Forecast Short-Term COVID-19 Cases and Deaths in the US},
+  author={Du, Hongru and Dong, Ensheng and Badr, Hamada S and Petrone, Mary and Grubaugh, Nathan and Gardner, Lauren Marie},
+  journal={medRxiv},
+  year={2022},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+
