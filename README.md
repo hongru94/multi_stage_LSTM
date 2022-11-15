@@ -22,7 +22,7 @@ A) Network architecture of the multi-stage LSTM model. B) Prediction structure o
 | Demographic data| Raw | https://www.census.gov/data.html | 
 | Variant cases | Derived | https://gisaid.org/ |
 
-
+Please refer to the Appendix for detailed preprocessing for derived metrics. 
 
 
 ### Model
