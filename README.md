@@ -34,6 +34,7 @@ Please refer to the Appendix for detailed preprocessing for derived metrics.
 Hongru Du, Ensheng Dong, Hamada S. Badr, Mary E. Petrone, Nathan D. Grubaugh, and Lauren M. Gardner
 
 ### BibTeX
+```latex
 @article{du2022deep,
   title={A Deep Learning Approach to Forecast Short-Term COVID-19 Cases and Deaths in the US},
   author={Du, Hongru and Dong, Ensheng and Badr, Hamada S and Petrone, Mary and Grubaugh, Nathan and Gardner, Lauren Marie},
@@ -41,4 +42,4 @@ Hongru Du, Ensheng Dong, Hamada S. Badr, Mary E. Petrone, Nathan D. Grubaugh, an
   year={2022},
   publisher={Cold Spring Harbor Laboratory Press}
 }
-
+```
