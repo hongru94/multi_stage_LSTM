@@ -10,8 +10,8 @@ A) Network architecture of the multi-stage LSTM model. B) Prediction structure o
 ### Data
 | State-Level Data| Data Preprocessing | Data Source |
 | :---:         |     :---:      |          :--- |
-| git status   | git status     | (https://www.medrxiv.org/content/10.1101/2022.08.23.22279132v1)  |
-| git diff     | git diff       | git diff      |
+| COVID-19 cases/deaths| Raw     | https://github.com/CSSEGISandData/COVID-19  |
+| Growth rate of cases/deaths| Raw       | [git diff](https://github.com/CSSEGISandData/COVID-19)      |
 
 ### Model
 - Main model: Predict the target epidemiological variables of interest!
