@@ -10,4 +10,5 @@ A) Network architecture of the multi-stage LSTM model. B) Prediction structure o
 ### Model
 - Main model: Predict the target epidemiological variables of interest!
 - Feature model: Predict independent features to populate the data streams used as input in the main model!
+- Prediction: The multi-stage model builds off the initial first stage prediction to forecast an additional week out and continues to implement this iterative approach one stage at a time, to predict further into the future.
 
