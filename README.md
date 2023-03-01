@@ -1,4 +1,4 @@
-# Multi-stage LSTM Models for COVID-19 forecasting
+# Incorporating variant frequencies data into short-term forecasting for COVID-19 cases and deaths in the USA: a deep learning approach
 This repository provides the code and data for the Multi-stage LSTM model to Forecast Short-Term COVID-19 Cases and Deaths in the US!
 ### The paper can be found here: (https://www.medrxiv.org/content/10.1101/2022.08.23.22279132v1).
 
@@ -35,11 +35,12 @@ Hongru Du, Ensheng Dong, Hamada S. Badr, Mary E. Petrone, Nathan D. Grubaugh, an
 
 ### BibTeX
 ```latex
-@article{du2022deep,
-  title={A Deep Learning Approach to Forecast Short-Term COVID-19 Cases and Deaths in the US},
-  author={Du, Hongru and Dong, Ensheng and Badr, Hamada S and Petrone, Mary and Grubaugh, Nathan and Gardner, Lauren Marie},
-  journal={medRxiv},
-  year={2022},
-  publisher={Cold Spring Harbor Laboratory Press}
+@article{du2023incorporating,
+  title={Incorporating variant frequencies data into short-term forecasting for COVID-19 cases and deaths in the USA: a deep learning approach},
+  author={Du, Hongru and Dong, Ensheng and Badr, Hamada S and Petrone, Mary E and Grubaugh, Nathan D and Gardner, Lauren M},
+  journal={EBioMedicine},
+  volume={89},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
