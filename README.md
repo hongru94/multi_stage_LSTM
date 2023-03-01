@@ -1,6 +1,6 @@
 # Incorporating variant frequencies data into short-term forecasting for COVID-19 cases and deaths in the USA: a deep learning approach
 This repository provides the code and data for the Multi-stage LSTM model to Forecast Short-Term COVID-19 Cases and Deaths in the US!
-### The paper can be found here: (https://www.medrxiv.org/content/10.1101/2022.08.23.22279132v1).
+### The paper can be found here: (https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00047-6/fulltext).
 
 ![Network architecture ![image](https://user-images.githubusercontent.com/47940478/202015773-ece717e7-743d-4e07-b3c8-00543abf4682.png)
 ](https://github.com/hongru94/multi_stage_LSTM/blob/main/figures/figure_1.png?raw=true "Multi-stage LSTM model")
